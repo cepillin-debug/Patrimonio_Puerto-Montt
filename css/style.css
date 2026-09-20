@@ -12,9 +12,6 @@ body{
     font-family: sans-serif;
     background-color:lemonchiffon;
     overflow: hidden;
-
-    display: flex;
-    flex-direction: column;
 }
 
 .titulo_card{
