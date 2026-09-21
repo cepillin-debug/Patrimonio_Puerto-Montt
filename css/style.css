@@ -2,6 +2,17 @@ body{
     margin: 0;
 }
 
+.barra-estatica{
+    font-size: 25px;
+    width: 700px;
+    
+}
+
+.listado{
+
+}
+
+
 .card{
     margin: auto;
     box-sizing: border-box;
